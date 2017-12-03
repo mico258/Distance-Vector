@@ -39,10 +39,6 @@
 > - ***`int next_hop_tabel[1000][1000]`*** mensimulasikan tabel next_hoop
 > 
 
-#### **Pembagian Tugas**
-- Mico = 33% ( Fungsi ***`connect_node[int edge]`*** dan ***`update_tabel[int y]`*** )
-- Bobby = 33% ( Fungsi ***`initiate_tabel[int n_node]`*** dan ***`connect_node[int edge]`*** )
-- Farhan = 33% ( Fungsi ***`update_tabel[int y]`*** dan ***`print_node[int n_node]`*** )
 
 #### **Menjawab Pertanyaan**
 ##### Apakah perbedaan dari routing protocol distance-vector dan link state? Manakah yang lebih baik untuk digunakan?
